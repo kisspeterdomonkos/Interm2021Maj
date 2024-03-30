@@ -1,0 +1,15 @@
+C:\Users\Peti\Desktop\C#\karacsonyCLI\bin\Debug\net6.0\karacsonyCLI.exe
+C:\Users\Peti\Desktop\C#\karacsonyCLI\bin\Debug\net6.0\karacsonyCLI.deps.json
+C:\Users\Peti\Desktop\C#\karacsonyCLI\bin\Debug\net6.0\karacsonyCLI.runtimeconfig.json
+C:\Users\Peti\Desktop\C#\karacsonyCLI\bin\Debug\net6.0\karacsonyCLI.dll
+C:\Users\Peti\Desktop\C#\karacsonyCLI\bin\Debug\net6.0\karacsonyCLI.pdb
+C:\Users\Peti\Desktop\C#\karacsonyCLI\obj\Debug\net6.0\karacsonyCLI.csproj.AssemblyReference.cache
+C:\Users\Peti\Desktop\C#\karacsonyCLI\obj\Debug\net6.0\karacsonyCLI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Peti\Desktop\C#\karacsonyCLI\obj\Debug\net6.0\karacsonyCLI.AssemblyInfoInputs.cache
+C:\Users\Peti\Desktop\C#\karacsonyCLI\obj\Debug\net6.0\karacsonyCLI.AssemblyInfo.cs
+C:\Users\Peti\Desktop\C#\karacsonyCLI\obj\Debug\net6.0\karacsonyCLI.csproj.CoreCompileInputs.cache
+C:\Users\Peti\Desktop\C#\karacsonyCLI\obj\Debug\net6.0\karacsonyCLI.dll
+C:\Users\Peti\Desktop\C#\karacsonyCLI\obj\Debug\net6.0\refint\karacsonyCLI.dll
+C:\Users\Peti\Desktop\C#\karacsonyCLI\obj\Debug\net6.0\karacsonyCLI.pdb
+C:\Users\Peti\Desktop\C#\karacsonyCLI\obj\Debug\net6.0\karacsonyCLI.genruntimeconfig.cache
+C:\Users\Peti\Desktop\C#\karacsonyCLI\obj\Debug\net6.0\ref\karacsonyCLI.dll

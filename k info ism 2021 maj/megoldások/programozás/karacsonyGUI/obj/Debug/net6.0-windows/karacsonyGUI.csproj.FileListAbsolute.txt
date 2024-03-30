@@ -1,0 +1,17 @@
+C:\Users\Peti\Desktop\C#\karacsonyGUI\bin\Debug\net6.0-windows\karacsonyGUI.exe
+C:\Users\Peti\Desktop\C#\karacsonyGUI\bin\Debug\net6.0-windows\karacsonyGUI.deps.json
+C:\Users\Peti\Desktop\C#\karacsonyGUI\bin\Debug\net6.0-windows\karacsonyGUI.runtimeconfig.json
+C:\Users\Peti\Desktop\C#\karacsonyGUI\bin\Debug\net6.0-windows\karacsonyGUI.dll
+C:\Users\Peti\Desktop\C#\karacsonyGUI\bin\Debug\net6.0-windows\karacsonyGUI.pdb
+C:\Users\Peti\Desktop\C#\karacsonyGUI\obj\Debug\net6.0-windows\karacsonyGUI.csproj.AssemblyReference.cache
+C:\Users\Peti\Desktop\C#\karacsonyGUI\obj\Debug\net6.0-windows\karacsonyGUI.karacsonyGUI.resources
+C:\Users\Peti\Desktop\C#\karacsonyGUI\obj\Debug\net6.0-windows\karacsonyGUI.csproj.GenerateResource.cache
+C:\Users\Peti\Desktop\C#\karacsonyGUI\obj\Debug\net6.0-windows\karacsonyGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Peti\Desktop\C#\karacsonyGUI\obj\Debug\net6.0-windows\karacsonyGUI.AssemblyInfoInputs.cache
+C:\Users\Peti\Desktop\C#\karacsonyGUI\obj\Debug\net6.0-windows\karacsonyGUI.AssemblyInfo.cs
+C:\Users\Peti\Desktop\C#\karacsonyGUI\obj\Debug\net6.0-windows\karacsonyGUI.csproj.CoreCompileInputs.cache
+C:\Users\Peti\Desktop\C#\karacsonyGUI\obj\Debug\net6.0-windows\karacsonyGUI.dll
+C:\Users\Peti\Desktop\C#\karacsonyGUI\obj\Debug\net6.0-windows\refint\karacsonyGUI.dll
+C:\Users\Peti\Desktop\C#\karacsonyGUI\obj\Debug\net6.0-windows\karacsonyGUI.pdb
+C:\Users\Peti\Desktop\C#\karacsonyGUI\obj\Debug\net6.0-windows\karacsonyGUI.genruntimeconfig.cache
+C:\Users\Peti\Desktop\C#\karacsonyGUI\obj\Debug\net6.0-windows\ref\karacsonyGUI.dll
